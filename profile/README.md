@@ -1,2 +1,2 @@
-# Mini-Invisible One
-Mini-Arm robotics for STEAM Education
+# AUTOBOTx LAB
+AUTOBOTx Lab is a cutting-edge facility dedicated to exploration, development and innovation of robotics technology
